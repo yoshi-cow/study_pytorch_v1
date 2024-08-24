@@ -1,1 +1,2 @@
 # study_pytorch_v1
+youtubeなどを用いて学んだpytorch関連のnotebook保存場所
